@@ -1,0 +1,9 @@
+H:\Send\bin\Debug\netcoreapp1.1\Send.deps.json
+H:\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.json
+H:\Send\bin\Debug\netcoreapp1.1\Send.runtimeconfig.dev.json
+H:\Send\bin\Debug\netcoreapp1.1\Send.dll
+H:\Send\bin\Debug\netcoreapp1.1\Send.pdb
+H:\Send\obj\Debug\netcoreapp1.1\Send.AssemblyInfo.cs
+H:\Send\obj\Debug\netcoreapp1.1\Send.dll
+H:\Send\obj\Debug\netcoreapp1.1\Send.pdb
+H:\Send\obj\Debug\netcoreapp1.1\Send.csprojResolveAssemblyReference.cache
